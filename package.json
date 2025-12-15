@@ -1,0 +1,13 @@
+{
+  "name": "levpay-api-v1",
+  "private": true,
+  "version": "1.0.0",
+  "description": "LevPay Vercel API Gateway -> Proxy to VPS",
+  "main": "api/[...path].js",
+  "engines": {
+    "node": "20.x"
+  },
+  "scripts": {
+    "build": "echo \"no build\""
+  }
+}
